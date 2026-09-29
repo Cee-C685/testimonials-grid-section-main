@@ -63,7 +63,6 @@ p {
   top: 0;
   left: 60%;
   z-index: 0;
-  border: 1px solid red;
 }
 .symbol img {
   width: 90%;
@@ -106,7 +105,6 @@ p {
       "daniel daniel walter kira"
       "harmon abram abram kira";
     gap: 1em;
-    border: 1px solid red;
   }
 
   .daniel {
